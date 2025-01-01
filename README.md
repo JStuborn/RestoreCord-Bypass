@@ -1,7 +1,7 @@
 # RestoreCord Bypass
 
 ## Overview
-Bypass the IP logging mechanisms employed by RestoreCord.
+Bypass the IP logging mechanisms and geo/vpn-blocking employed by RestoreCord.
 
 ## Prerequisites
 - Python 3.7+
